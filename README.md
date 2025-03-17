@@ -1,6 +1,7 @@
-# Imanuel Chatur
+# Imanuel
 ---
 **Sheridan Student in Information Sciences**
+
 code and stuff 😼
 
 Languages
