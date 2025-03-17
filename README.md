@@ -2,4 +2,15 @@
 ---
 **Sheridan Student in Information Sciences**
 
-code ! 
+Languages
+---
+- Python
+- Java
+- Javascript
+- C#
+
+Frameworks
+---
+- Spring
+- Angular
+  
