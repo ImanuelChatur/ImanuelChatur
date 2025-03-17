@@ -1,6 +1,7 @@
 # Imanuel Chatur
 ---
 **Sheridan Student in Information Sciences**
+code and stuff 😼
 
 Languages
 ---
@@ -8,9 +9,3 @@ Languages
 - Java
 - Javascript
 - C#
-
-Frameworks
----
-- Spring
-- Angular
-  
